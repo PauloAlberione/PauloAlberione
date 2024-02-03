@@ -7,6 +7,8 @@ Hola 👋, soy Paulo Alberione!
 Conecta conmigo:
 https://www.linkedin.com/in/pauloalberione/
 
+pauloalberione@gmail.com
+
 Languages and Tools:
-https://raw.githubusercontent.com/PauloAlberione/PauloAlberione/main/css.png
+C++, Java, HTML, CSS, JavaScript, NodeJS, Angular, TypeScript, MySQL, SpringBoot, Postman.
 
