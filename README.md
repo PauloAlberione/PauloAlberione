@@ -1,9 +1,12 @@
-👋 ¡Hola! Soy @PauloAlberione 😄
+
+Hola 👋, soy Paulo Alberione!
+
 🎓 Soy Técnico Superior en Informática y también soy estudiante avanzado de Licenciatura en Informática.
 👀 Aquí podrás ver algunos de mis proyectos realizados.
-📖 Tengo conocimientos en C++, Java, HTML, CSS, JavaScript, NodeJS, MySQL, entre otros.
-⚡ Actualmente estoy aprendiendo Java con SpringBoot y MySQL.
-📫 Me podés contactar mediante email : pauloalberione@gmail.com
-🌱 Keep Growing
 
+Conecta conmigo:
+https://www.linkedin.com/in/pauloalberione/
+
+Languages and Tools:
+bootstrap css3 express html5 javascript mysql nestjs nodejs react sass typescript
 
