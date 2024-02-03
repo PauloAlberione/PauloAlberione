@@ -8,5 +8,5 @@ Conecta conmigo:
 https://www.linkedin.com/in/pauloalberione/
 
 Languages and Tools:
-bootstrap css3 express html5 javascript mysql nestjs nodejs react sass typescript
+https://raw.githubusercontent.com/PauloAlberione/PauloAlberione/main/css.png
 
